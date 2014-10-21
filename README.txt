@@ -1,4 +1,4 @@
-This repository contains several projects that I completed for
+This repository contains several projects that I wrote for
 my Python programming course. The projects are all written for
 Python3. All projects were completed during the Spring 2014
 school semester. Each project has its own directory and comes
