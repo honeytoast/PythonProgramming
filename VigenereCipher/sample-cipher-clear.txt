@@ -1,0 +1,8 @@
+This is a sample message that will be ciphered.
+“Do you wanna build a snowman?”
+It doesn't look very interesting now but,
+It will look very cryptic afterwards.
+I am demonstrating, that “I” can use special characters.
+And they will be redisplayed in the output, like quotations,
+	or even tabs.
+Python is cool.

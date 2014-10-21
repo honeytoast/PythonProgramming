@@ -1,0 +1,42 @@
+/*#### Grace Hadiyanto
+#### e-mail: ifoundparis@gmail.com
+#### Assignment 7
+#### CS223P*/
+
+h1 {
+    color: #000033;
+    padding-top: 7%;
+    margin-bottom: 0;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    color: black;
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.filename {
+    padding-left: 30%;
+}
+
+.fortune-content {
+    margin-top: 0;
+    padding-left: 30%;
+    padding-right: 10%;
+}
+
+.treasure {
+    padding-left: 30%;
+    margin-top: 0%;
+}
+
+.treasure span {
+    float: right;
+    margin-top: 6%;
+    padding-right: 10%; 
+}

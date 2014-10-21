@@ -1,0 +1,36 @@
+digraph BST{
+	node [fontsize=11 fontname="Helvetica"];
+	edge [arrowhead=vee];
+	16 -> 7;
+	16 -> 22;
+	7 -> 2;
+	7 -> 11;
+	7 -> 16;
+	None1 [height=.25 width=.5 style=filled fontcolor=white fillcolor=black shape=box];
+	2 -> None1;
+	2 -> 6;
+	2 -> 7;
+	None2 [height=.25 width=.5 style=filled fontcolor=white fillcolor=black shape=box];
+	6 -> None2;
+	None3 [height=.25 width=.5 style=filled fontcolor=white fillcolor=black shape=box];
+	6 -> None3;
+	6 -> 2;
+	11 -> 9;
+	None4 [height=.25 width=.5 style=filled fontcolor=white fillcolor=black shape=box];
+	11 -> None4;
+	11 -> 7;
+	None5 [height=.25 width=.5 style=filled fontcolor=white fillcolor=black shape=box];
+	9 -> None5;
+	None6 [height=.25 width=.5 style=filled fontcolor=white fillcolor=black shape=box];
+	9 -> None6;
+	9 -> 11;
+	None7 [height=.25 width=.5 style=filled fontcolor=white fillcolor=black shape=box];
+	22 -> None7;
+	22 -> 24;
+	22 -> 16;
+	None8 [height=.25 width=.5 style=filled fontcolor=white fillcolor=black shape=box];
+	24 -> None8;
+	None9 [height=.25 width=.5 style=filled fontcolor=white fillcolor=black shape=box];
+	24 -> None9;
+	24 -> 22;
+}
