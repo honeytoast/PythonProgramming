@@ -10,11 +10,11 @@ import time
 from twitter import *
 from datetime import datetime, timedelta
 
-# Twitter keys
-OAUTH_KEY = '2444580926-yUXUAuguQgNbIGAIZjqOqJW8g34c4fMfGo8s6iK'
-OAUTH_SECRET = 'epxYR588qsoI6puOre2y8FaKOsiBqO9OsJreuM4eOWxfg'
-CONSUMER_KEY = '6woH5LOwXMHRGskv4iyUIQnoK'
-CONSUMER_SECRET = 'u7YJWIFe3FdIB2gVE4wyALGYMVIHE4pDf4CBhG7L3GfeTc83jN'
+# Put Twitter keys here
+OAUTH_KEY = '<your oauth key>'
+OAUTH_SECRET = '< your oauth secret>'
+CONSUMER_KEY = '< your consumer key>'
+CONSUMER_SECRET = '<your consumer secret>'
 
 # Dictionary of the difference between GMT and the unique timezones from database
 TIME_ZONES = {'US/Pacific': -7,  'US/Mountain': -6, 'US/Central': -5, 
